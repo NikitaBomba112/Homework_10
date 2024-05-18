@@ -1,0 +1,16 @@
+D:\Games\C#\WinForm\Homework_10\Homework_10\bin\Debug\net8.0-windows\Homework_10.exe
+D:\Games\C#\WinForm\Homework_10\Homework_10\bin\Debug\net8.0-windows\Homework_10.deps.json
+D:\Games\C#\WinForm\Homework_10\Homework_10\bin\Debug\net8.0-windows\Homework_10.runtimeconfig.json
+D:\Games\C#\WinForm\Homework_10\Homework_10\bin\Debug\net8.0-windows\Homework_10.dll
+D:\Games\C#\WinForm\Homework_10\Homework_10\bin\Debug\net8.0-windows\Homework_10.pdb
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.Form1.resources
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.csproj.GenerateResource.cache
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.AssemblyInfoInputs.cache
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.AssemblyInfo.cs
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.csproj.CoreCompileInputs.cache
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.dll
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\refint\Homework_10.dll
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.pdb
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\Homework_10.genruntimeconfig.cache
+D:\Games\C#\WinForm\Homework_10\Homework_10\obj\Debug\net8.0-windows\ref\Homework_10.dll
